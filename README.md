@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>🔭 I’m currently working on<br><br>Frontend web projects<br><br>Responsive UI designs<br><br>Personal portfolio website<br><br>👯 I’m looking to collaborate on<br><br>Frontend development projects<br><br>UI/UX design ideas<br><br>Creative web apps<br><br>🤝 I’m looking for help with<br><br>Advanced UI/UX principles<br><br>Real-world frontend project experience<br><br>🌱 I’m currently learning<br><br>HTML, CSS, JavaScript<br><br>React.js<br><br>UI/UX design (Figma, wireframing, prototyping)<br><br>💬 Ask me about<br><br>Frontend development<br><br>UI/UX basics<br><br>Web design & layouts<br><br>⚡ Fun fact<br><br>I believe a clean UI makes half the work feel done ✨
+👋 About Me<br><br>🔭 I’m currently working on<br><br>Frontend web projects Responsive UI designs Personal portfolio website<br><br>👯 I’m looking to collaborate on Frontend development projects UI/UX design ideas Creative web apps<br><br>🤝 I’m looking for help with Advanced UI/UX principles Real-world frontend project experience<br><br>🌱 I’m currently learning HTML, CSS, JavaScript,React.js,UI/UX design (Figma, wireframing, prototyping)<br><br>💬 Ask me about Frontend development UI/UX basics Web design & layouts<br><br>⚡ Fun fact I believe a clean UI makes half the work feel done ✨
 
 
 ## 🌐 Socials:
