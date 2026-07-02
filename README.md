@@ -40,8 +40,7 @@ Goals 2026:
   - Build Production Ready Projects
   - Master React Ecosystem
   - Learn Next.js
-  - Crack Product Based Companies
-
+  
 Fun Fact:
   "A beautiful UI isn't decoration.
    It's communication."
