@@ -1,6 +1,8 @@
 <div align="center">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=6,12,20,24,30&text=AYUSH%20SHUKLA&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Frontend%20Developer%20|%20React%20Developer%20|%20UI%2FUX%20Designer&descAlignY=60"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24,30&text=AYUSH%20SHUKLA&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Frontend%20Developer%20|%20React%20Developer%20|%20UI/UX%20Designer&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+Developer;UI%2FUX+Designer;Building+Modern+Web+Experiences;Always+Learning+Something+New"/>
 
@@ -19,6 +21,7 @@
 </div>
 
 ---
+
 
 # 💫 About Me
 
@@ -302,16 +305,6 @@ If you like my work,
 <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-</div>
-
----
-
-# 📈 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ayushukla7/Ayushukla7/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
