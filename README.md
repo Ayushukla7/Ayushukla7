@@ -228,28 +228,6 @@ Landing Pages
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushukla7&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# ⚡ Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ayushukla7&theme=tokyonight"/>
-
-</div>
-
-> Remove this section if you don't use WakaTime.
-
----
-
 # 💡 Quote
 
 <div align="center">
@@ -282,7 +260,6 @@ Landing Pages
 - 🌐 Learn Next.js
 - ⚡ Build SaaS Projects
 - 💻 Contribute to Open Source
-- 🏆 Crack Product Based Placements
 - 📈 Maintain Daily GitHub Streak
 
 ---
