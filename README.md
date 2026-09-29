@@ -152,23 +152,24 @@ IDEA  →  DESIGN  →  BUILD  →  DEBUG  →  SHIP 🚀
 
 ---
 
-## `05 / GITHUB ACTIVITY`
+## `04 / GITHUB ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushukla7&show_icons=true&hide_border=true&theme=transparent&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayushukla7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF&border_radius=12"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushukla7&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&border_radius=12"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushukla7&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img src="https://streak-stats.demolab.com?user=Ayushukla7&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushukla7&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushukla7&bg_color=0D1117&color=FFFFFF&line=00F7FF&point=00F7FF&area_color=00F7FF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
----
 
 ## `06 / CONNECT`
 
